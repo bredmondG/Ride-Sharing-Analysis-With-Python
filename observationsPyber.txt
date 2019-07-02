@@ -1,0 +1,5 @@
+1. As total number of rides per city increases, the average fare per ride decreases.
+
+2.Drivers in Urban areas make less money. Urban areas made 63% of the total fares, but Urban areas contain 80% of the total drivers.
+
+3. Suburban and Rural areas both had a roughly 2:1 ratio of fares to drivers, meaning Suburban and Rural drivers made more per ride than Urban drivers.
